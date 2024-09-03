@@ -1,7 +1,7 @@
 # crypto-currency
 Cryptocurrency is a digital or virtual currency that uses cryptography to secure and verify transactions. It's decentralized, meaning it's not controlled by any government or financial institution, and it exists only in digital form. Cryptocurrencies are based on blockchain technology
 MADE IT USING THE LANGUAGES TAILWIND AND REACT USED AI TOOLS LIKE BARD,GEMINI,BLACKBOX AND COPILOT
-it was basically a team project.we were a team of 4 MEMBERS
+it was basically a team PROJECT(HACKATHON).we were a team of 4 MEMBERS
 TASK: Crypto Portal Dummy with Interactive Elements
 
 OBJECTIVE:
